@@ -1,0 +1,60 @@
+Run completed at 2026-05-01 15:22:13.023662
+
+{'ticket_id': 0, 'request_type': 'high_risk', 'product_area': 'access', 'decision': 'escalate', 'response': 'This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.', 'source': 'Escalated'}
+
+{'ticket_id': 1, 'request_type': 'high_risk', 'product_area': 'assessments', 'decision': 'escalate', 'response': 'This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.', 'source': 'Escalated'}
+
+{'ticket_id': 2, 'request_type': 'high_risk', 'product_area': 'security', 'decision': 'escalate', 'response': 'This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.', 'source': 'Escalated'}
+
+{'ticket_id': 3, 'request_type': 'high_risk', 'product_area': 'general', 'decision': 'escalate', 'response': 'This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.', 'source': 'Escalated'}
+
+{'ticket_id': 4, 'request_type': 'high_risk', 'product_area': 'general', 'decision': 'escalate', 'response': 'This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.', 'source': 'Escalated'}
+
+{'ticket_id': 5, 'request_type': 'high_risk', 'product_area': 'assessments', 'decision': 'escalate', 'response': 'This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.', 'source': 'Escalated'}
+
+{'ticket_id': 6, 'request_type': 'invalid', 'product_area': 'general', 'decision': 'answer', 'response': 'According to official support documentation:\nHackerRank: Candidates can request extra time through the Candidates tab in test settings.', 'source': 'HackerRank: Candidates can request extra time through the Candidates tab in test settings.'}
+
+{'ticket_id': 7, 'request_type': 'product_issue', 'product_area': 'assessments', 'decision': 'answer', 'response': 'According to official HackerRank support documentation:\nHackerRank: Candidates can request extra time through the Candidates tab in test settings.', 'source': 'HackerRank: Candidates can request extra time through the Candidates tab in test settings.'}
+
+{'ticket_id': 8, 'request_type': 'product_issue', 'product_area': 'assessments', 'decision': 'answer', 'response': 'According to official HackerRank support documentation:\nHackerRank: Candidates can request extra time through the Candidates tab in test settings.', 'source': 'HackerRank: Candidates can request extra time through the Candidates tab in test settings.'}
+
+{'ticket_id': 9, 'request_type': 'high_risk', 'product_area': 'assessments', 'decision': 'escalate', 'response': 'This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.', 'source': 'Escalated'}
+
+{'ticket_id': 10, 'request_type': 'product_issue', 'product_area': 'assessments', 'decision': 'answer', 'response': 'According to official HackerRank support documentation:\nHackerRank: Candidates can request extra time through the Candidates tab in test settings.', 'source': 'HackerRank: Candidates can request extra time through the Candidates tab in test settings.'}
+
+{'ticket_id': 11, 'request_type': 'invalid', 'product_area': 'general', 'decision': 'answer', 'response': 'According to official support documentation:\nVisa: Contact Visa support for payment disputes or suspicious activity.', 'source': 'Visa: Contact Visa support for payment disputes or suspicious activity.'}
+
+{'ticket_id': 12, 'request_type': 'invalid', 'product_area': 'general', 'decision': 'answer', 'response': 'According to official support documentation:\nClaude: Users can delete conversations by selecting the conversation and choosing delete option.', 'source': 'Claude: Users can delete conversations by selecting the conversation and choosing delete option.'}
+
+{'ticket_id': 13, 'request_type': 'invalid', 'product_area': 'general', 'decision': 'answer', 'response': 'According to official support documentation:\nVisa: Contact Visa support for payment disputes or suspicious activity.', 'source': 'Visa: Contact Visa support for payment disputes or suspicious activity.'}
+
+{'ticket_id': 14, 'request_type': 'product_issue', 'product_area': 'conversation', 'decision': 'answer', 'response': 'According to official Claude support documentation:\nClaude: Conversation history can be managed in settings.', 'source': 'Claude: Conversation history can be managed in settings.'}
+
+{'ticket_id': 15, 'request_type': 'high_risk', 'product_area': 'general', 'decision': 'escalate', 'response': 'This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.', 'source': 'Escalated'}
+
+{'ticket_id': 16, 'request_type': 'invalid', 'product_area': 'general', 'decision': 'answer', 'response': 'According to official support documentation:\nVisa: If your card is lost or stolen, immediately contact Visa support.', 'source': 'Visa: If your card is lost or stolen, immediately contact Visa support.'}
+
+{'ticket_id': 17, 'request_type': 'product_issue', 'product_area': 'assessments', 'decision': 'answer', 'response': 'According to official HackerRank support documentation:\nHackerRank: Candidates can request extra time through the Candidates tab in test settings.', 'source': 'HackerRank: Candidates can request extra time through the Candidates tab in test settings.'}
+
+{'ticket_id': 18, 'request_type': 'high_risk', 'product_area': 'general', 'decision': 'escalate', 'response': 'This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.', 'source': 'Escalated'}
+
+{'ticket_id': 19, 'request_type': 'product_issue', 'product_area': 'conversation', 'decision': 'answer', 'response': 'According to official Claude support documentation:\nClaude: Conversation history can be managed in settings.', 'source': 'Claude: Conversation history can be managed in settings.'}
+
+{'ticket_id': 20, 'request_type': 'product_issue', 'product_area': 'conversation', 'decision': 'answer', 'response': 'According to official Claude support documentation:\nClaude: Users can delete conversations by selecting the conversation and choosing delete option.', 'source': 'Claude: Users can delete conversations by selecting the conversation and choosing delete option.'}
+
+{'ticket_id': 21, 'request_type': 'product_issue', 'product_area': 'card_support', 'decision': 'answer', 'response': 'According to official Visa support documentation:\nVisa: Contact Visa support for payment disputes or suspicious activity.', 'source': 'Visa: Contact Visa support for payment disputes or suspicious activity.'}
+
+{'ticket_id': 22, 'request_type': 'product_issue', 'product_area': 'conversation', 'decision': 'answer', 'response': 'According to official Claude support documentation:\nClaude: Users can delete conversations by selecting the conversation and choosing delete option.', 'source': 'Claude: Users can delete conversations by selecting the conversation and choosing delete option.'}
+
+{'ticket_id': 23, 'request_type': 'invalid', 'product_area': 'general', 'decision': 'answer', 'response': 'According to official support documentation:\nClaude: Users can delete conversations by selecting the conversation and choosing delete option.', 'source': 'Claude: Users can delete conversations by selecting the conversation and choosing delete option.'}
+
+{'ticket_id': 24, 'request_type': 'high_risk', 'product_area': 'security', 'decision': 'escalate', 'response': 'This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.', 'source': 'Escalated'}
+
+{'ticket_id': 25, 'request_type': 'product_issue', 'product_area': 'conversation', 'decision': 'answer', 'response': 'According to official Claude support documentation:\nClaude: Conversation history can be managed in settings.', 'source': 'Claude: Conversation history can be managed in settings.'}
+
+{'ticket_id': 26, 'request_type': 'high_risk', 'product_area': 'assessments', 'decision': 'escalate', 'response': 'This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.', 'source': 'Escalated'}
+
+{'ticket_id': 27, 'request_type': 'product_issue', 'product_area': 'conversation', 'decision': 'answer', 'response': 'According to official Claude support documentation:\nClaude: Conversation history can be managed in settings.', 'source': 'Claude: Conversation history can be managed in settings.'}
+
+{'ticket_id': 28, 'request_type': 'product_issue', 'product_area': 'card_support', 'decision': 'answer', 'response': 'According to official Visa support documentation:\nVisa: If your card is lost or stolen, immediately contact Visa support.', 'source': 'Visa: If your card is lost or stolen, immediately contact Visa support.'}
+

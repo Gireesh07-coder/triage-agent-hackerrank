@@ -1,0 +1,48 @@
+ticket_id,request_type,product_area,decision,response,source
+0,high_risk,access,escalate,This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.,Escalated
+1,high_risk,assessments,escalate,This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.,Escalated
+2,high_risk,security,escalate,This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.,Escalated
+3,high_risk,general,escalate,This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.,Escalated
+4,high_risk,general,escalate,This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.,Escalated
+5,high_risk,assessments,escalate,This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.,Escalated
+6,invalid,general,answer,"According to official support documentation:
+HackerRank: Candidates can request extra time through the Candidates tab in test settings.",HackerRank: Candidates can request extra time through the Candidates tab in test settings.
+7,product_issue,assessments,answer,"According to official HackerRank support documentation:
+HackerRank: Candidates can request extra time through the Candidates tab in test settings.",HackerRank: Candidates can request extra time through the Candidates tab in test settings.
+8,product_issue,assessments,answer,"According to official HackerRank support documentation:
+HackerRank: Candidates can request extra time through the Candidates tab in test settings.",HackerRank: Candidates can request extra time through the Candidates tab in test settings.
+9,high_risk,assessments,escalate,This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.,Escalated
+10,product_issue,assessments,answer,"According to official HackerRank support documentation:
+HackerRank: Candidates can request extra time through the Candidates tab in test settings.",HackerRank: Candidates can request extra time through the Candidates tab in test settings.
+11,invalid,general,answer,"According to official support documentation:
+Visa: Contact Visa support for payment disputes or suspicious activity.",Visa: Contact Visa support for payment disputes or suspicious activity.
+12,invalid,general,answer,"According to official support documentation:
+Claude: Users can delete conversations by selecting the conversation and choosing delete option.",Claude: Users can delete conversations by selecting the conversation and choosing delete option.
+13,invalid,general,answer,"According to official support documentation:
+Visa: Contact Visa support for payment disputes or suspicious activity.",Visa: Contact Visa support for payment disputes or suspicious activity.
+14,product_issue,conversation,answer,"According to official Claude support documentation:
+Claude: Conversation history can be managed in settings.",Claude: Conversation history can be managed in settings.
+15,high_risk,general,escalate,This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.,Escalated
+16,invalid,general,answer,"According to official support documentation:
+Visa: If your card is lost or stolen, immediately contact Visa support.","Visa: If your card is lost or stolen, immediately contact Visa support."
+17,product_issue,assessments,answer,"According to official HackerRank support documentation:
+HackerRank: Candidates can request extra time through the Candidates tab in test settings.",HackerRank: Candidates can request extra time through the Candidates tab in test settings.
+18,high_risk,general,escalate,This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.,Escalated
+19,product_issue,conversation,answer,"According to official Claude support documentation:
+Claude: Conversation history can be managed in settings.",Claude: Conversation history can be managed in settings.
+20,product_issue,conversation,answer,"According to official Claude support documentation:
+Claude: Users can delete conversations by selecting the conversation and choosing delete option.",Claude: Users can delete conversations by selecting the conversation and choosing delete option.
+21,product_issue,card_support,answer,"According to official Visa support documentation:
+Visa: Contact Visa support for payment disputes or suspicious activity.",Visa: Contact Visa support for payment disputes or suspicious activity.
+22,product_issue,conversation,answer,"According to official Claude support documentation:
+Claude: Users can delete conversations by selecting the conversation and choosing delete option.",Claude: Users can delete conversations by selecting the conversation and choosing delete option.
+23,invalid,general,answer,"According to official support documentation:
+Claude: Users can delete conversations by selecting the conversation and choosing delete option.",Claude: Users can delete conversations by selecting the conversation and choosing delete option.
+24,high_risk,security,escalate,This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.,Escalated
+25,product_issue,conversation,answer,"According to official Claude support documentation:
+Claude: Conversation history can be managed in settings.",Claude: Conversation history can be managed in settings.
+26,high_risk,assessments,escalate,This issue involves sensitive or high-risk information. It has been escalated to our support team for further review.,Escalated
+27,product_issue,conversation,answer,"According to official Claude support documentation:
+Claude: Conversation history can be managed in settings.",Claude: Conversation history can be managed in settings.
+28,product_issue,card_support,answer,"According to official Visa support documentation:
+Visa: If your card is lost or stolen, immediately contact Visa support.","Visa: If your card is lost or stolen, immediately contact Visa support."

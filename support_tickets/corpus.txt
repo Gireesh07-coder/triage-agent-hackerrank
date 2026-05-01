@@ -1,0 +1,9 @@
+HackerRank: Candidates can request extra time through the Candidates tab in test settings.
+HackerRank: Certificates can be corrected by contacting HackerRank support.
+
+Claude: Users can delete conversations by selecting the conversation and choosing delete option.
+Claude: Conversation history can be managed in settings.
+
+Visa: If your card is lost or stolen, immediately contact Visa support.
+Visa: Unauthorized transactions should be reported immediately.
+Visa: Contact Visa support for payment disputes or suspicious activity.
